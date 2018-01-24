@@ -1,4 +1,4 @@
-baseURL = "http://www.kenleidal.com/"
+baseURL = "https://www.kenleidal.com/"
 languageCode = "en-us"
 title = "Ken Leidal"
 theme = "minimal"
